@@ -83,8 +83,6 @@ index_htm_files/1905.png
 index_htm_files/2301.jpg
 index_htm_files/2301@2x.jpg
 index_htm_files/2890.png
-index_htm_files/3035.jpg
-index_htm_files/3035@2x.jpg
 index_htm_files/1064.png
 index_htm_files/1064@2x.png
 index_htm_files/1982.png
