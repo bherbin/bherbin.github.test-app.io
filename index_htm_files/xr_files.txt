@@ -198,6 +198,7 @@ index_htm_files/2562.png
 index_htm_files/2562@2x.png
 index_htm_files/2936.jpg
 index_htm_files/2936@2x.jpg
+index_htm_files/3059.png
 index_htm_files/mosiac_slide_conf.js
 index_htm_files/progress.gif
 index_htm_files/mosaic.css
