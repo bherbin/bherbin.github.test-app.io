@@ -199,10 +199,11 @@ index_htm_files/3233.jpg
 index_htm_files/3233@2x.jpg
 index_htm_files/3234.jpg
 index_htm_files/3234@2x.jpg
-index_htm_files/3301.jpg
-index_htm_files/3301@2x.jpg
-index_htm_files/3302.png
-index_htm_files/3302@2x.png
+index_htm_files/3367.png
+index_htm_files/3368.jpg
+index_htm_files/3368@2x.jpg
+index_htm_files/3369.png
+index_htm_files/3369@2x.png
 index_htm_files/mosiac_slide_conf.js
 index_htm_files/progress.gif
 index_htm_files/mosaic.css
