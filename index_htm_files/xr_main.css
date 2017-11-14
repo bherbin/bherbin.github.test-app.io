@@ -73,7 +73,6 @@ body {text-align:center;}
 .xr_c_Panel_Text {color:#000000;}
 .xr_c_RTF3 {color:#000000;}
 .xr_c_Website_Backdrop {color:#F5EFDC;}
-.xr_c_Button_Color {color:#EBE2FF;}
 .xr_bgb0 {background:url('218.png') -768px 1741px repeat;}
 #xr_nb1 {font-family:Arial; font-size:11px;}
 #xr_nb1 li:hover > a {background-color:#666666; color:#FFFFFF;}
@@ -192,6 +191,8 @@ body {text-align:center;}
 #xr_nb45 li:hover {border-color:#333333;}
 #xr_nb45 ul {border: solid 0px #000000;}
 #xr_nb45 .xr_nb2 {transition: visibility 300ms;}
+.xr_bgb10 {background:url('218.png') -768px 1764px repeat;}
+.xr_bgb11 {background:url('218.png') -768px 1516px repeat;}
 }
 @media print {
  .xr_mvpo {display:none;}
